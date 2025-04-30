@@ -228,13 +228,6 @@ home.html
 </body>
 </html>
 ```
-
-
-
-
-
-
-
 ## OUTPUT
 ![alt text](<Screenshot 2025-04-30 100320.png>)
 
